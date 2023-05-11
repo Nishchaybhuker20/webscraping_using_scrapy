@@ -11,3 +11,7 @@ from itemadapter import ItemAdapter
 class WebscrapPipeline:
     def process_item(self, item, spider):
         return item
+    
+
+
+
